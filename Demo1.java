@@ -9,6 +9,9 @@ public static void main(String... args) {
 	//git stash prctice
 	int b = 20;
 	
+	//git conflict practice
+	int d = 40;
+	
 	//git other developer code in practice of git 
 	int e = 50;
 
